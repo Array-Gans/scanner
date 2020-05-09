@@ -1,2 +1,1 @@
-# scanner
-Array Shell Scanner
+shell-scanner
